@@ -1,0 +1,24 @@
+
+///////////////////////////////////////////////////////////////////////////////////
+NSID: uiu040
+Student Number: 11146945
+Class/Term: CMPT 270/2015 term 1
+///////////////////////////////////////////////////////////////////////////////////
+
+
+1.
+
+The documentation is in the "javaDoc_open_index-html" folder in the same directory as this file.
+Please start with the index.html file as the links to all the other classes.
+To test all the program, please run the jar file. 
+
+2. 
+Status of Assignment
+All classes are working perfectly and thoroughly tested. I have tried
+several test cases and they all appear to work great.
+
+The UML diagram contains detail overview of the project.
+
+3. Maintenance manual:
+
+UML class diagram is included. It shows all the features of each class, and the relationships amongst the classes.
